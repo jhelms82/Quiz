@@ -1,12 +1,5 @@
-# INF360 - Programming in Python
 # James Helms
-# Mid term Project
 # NFL 5 Question Quiz
-# (20 points) Does the program execute with no errors
-# (20 points) The program should contain: Good flow control, good use of functions, code should be as clean as possible (i.e. writing the smallest amount of code necessary to complete the function), and contain examples of lists or dictionaries
-# (20 points) The project should be well documented. Make use of block and line comments to describe the program as a whole, individual functions, and major areas of the project.
-# (20 points) Use of the logging module. This should be used in place of where you might have had print statements (unless your project was intended to have console output. Refer to Chapter 10 – Debugging. You should import the module, setup the basic config, and then you must have a combination of logging.debug and logging.critical statements used appropriately. You can use any additional logging level you choose, possibly logging.warning
-# (20 points) Use of Object-Oriented Programming. This can be you creating your own classes and modules OR the use of third party modules. If using third party modules, be sure to put in the comments the packages that need to be installed (probably from pip).
 
 #import logging for the logging.basicconfig
 import logging
